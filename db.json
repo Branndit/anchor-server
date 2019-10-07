@@ -15,12 +15,14 @@
     ],
     "anchors": [],
     "Iprovider": [],
-    "overview": {
-        "farmers": {
+    "overview": [
+        {
+            "id": "farmers",
             "enumerated": 4000
         },
-        "anchor": {
-            "enumerated": 3000
+        {
+            "id": "anchor",
+            "enumerated": 4000
         }
-    }
+    ]
 }
