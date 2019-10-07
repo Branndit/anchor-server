@@ -7,8 +7,8 @@
             "middlename": "",
             "gender": "male",
             "dob": "05/05/1966",
-            "phone": 8153453634,
-            "bvn": 22254356345,
+            "phone": "8153453634",
+            "bvn": "22254356345",
             "stateid": 34,
             "state": "Sokoto",
             "lgaid": 716,
@@ -16,7 +16,7 @@
             "gps": "13.0308289,5.2591434",
             "date_submission": "07/09/2018 22:12",
             "date_disbursement": "05/09/2018 10:18",
-            "Loan amount": 300000,
+            "Loan amount": "300000",
             "amount_repaid": 0
         },
         {
@@ -26,8 +26,8 @@
             "middlename": "Issac",
             "gender": "male",
             "dob": "25/03/1990",
-            "phone": 8163345278,
-            "bvn": 22253453634,
+            "phone": "8163345278",
+            "bvn": "22253453634",
             "stateid": 25,
             "state": "Lagos",
             "lgaid": 512,
@@ -35,7 +35,7 @@
             "gps": "6.5817653,3.5319011",
             "date_submission": "07/09/2018 22:12",
             "date_disbursement": "14/08/2018 11:46",
-            "Loan amount": 300000,
+            "Loan amount": "300000",
             "amount_repaid": 0
         }
     ],
