@@ -44,9 +44,9 @@
     "overview": [
         {
             "id": "farmers",
-            "enumerated": 821119,
-            "approved": 25003,
-            "totalHectares": 45000,
+            "enumerated": "821119",
+            "approved": "25003",
+            "totalHectares": "45000",
             "totalCropsSupported": 52,
             "loansReceived": 43.2,
             "loansPaid": 23.2
@@ -54,7 +54,7 @@
         {
             "id": "anchor",
             "numberOfAnchors": 4000,
-            "totalTraded": 834455,
+            "totalTraded": "834455",
             "averageTurnout": 21.4,
             "totalProcessed": 59.2
         },
