@@ -4,20 +4,15 @@
             "id": 1,
             "name": "Checking",
             "age": "Olawale",
-            "state": "Lagos",
-            "lg": "Odo-Otin"
+            "state": "Lagos"
         },
         {
             "id": 2,
             "name": "Checkers",
             "age": "Olawale",
-            "state": "Lagos",
-            "lg": "Odo-Otin"
+            "state": "Lagos"
         }
     ],
-    "farmers_overview": {},
     "anchors": [],
-    "anchor_overview": {},
-    "Iprovider": [],
-    "Iprovider_overview": {}
+    "Iprovider": []
 }
