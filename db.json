@@ -288,22 +288,22 @@
                 {
                     "id": 2,
                     "state": "Kebbi",
-                    "farmers": 30
+                    "percentage": 30
                 },
                 {
                     "id": 3,
                     "state": "Lagos",
-                    "farmers": 40
+                    "percentage": 40
                 },
                 {
                     "id": 4,
                     "state": "Ondo",
-                    "farmers": 80
+                    "percentage": 80
                 },
                 {
                     "id": 5,
                     "state": "Oyo",
-                    "farmers": 30
+                    "percentage": 30
                 }
             ]
         },
