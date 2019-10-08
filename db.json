@@ -249,7 +249,63 @@
             "totalHectares": "45000",
             "totalCropsSupported": 52,
             "loansReceived": 43.2,
-            "loansPaid": 23.2
+            "loansPaid": 23.2,
+            "inputProcessed": "4000",
+            "totalProcessed": "764113",
+            "topList": [
+                {
+                    "id": 1,
+                    "state": "Kano",
+                    "farmers": "14000"
+                },
+                {
+                    "id": 2,
+                    "state": "Kebbi",
+                    "farmers": "10000"
+                },
+                {
+                    "id": 3,
+                    "state": "Lagos",
+                    "farmers": "6000"
+                },
+                {
+                    "id": 4,
+                    "state": "Ondo",
+                    "farmers": "4000"
+                },
+                {
+                    "id": 5,
+                    "state": "Oyo",
+                    "farmers": "2000"
+                }
+            ],
+            "distribution": [
+                {
+                    "id": 1,
+                    "state": "Kano",
+                    "percentage": 20
+                },
+                {
+                    "id": 2,
+                    "state": "Kebbi",
+                    "farmers": 30
+                },
+                {
+                    "id": 3,
+                    "state": "Lagos",
+                    "farmers": 40
+                },
+                {
+                    "id": 4,
+                    "state": "Ondo",
+                    "farmers": 80
+                },
+                {
+                    "id": 5,
+                    "state": "Oyo",
+                    "farmers": 30
+                }
+            ]
         },
         {
             "id": "anchor",
