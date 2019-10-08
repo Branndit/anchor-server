@@ -18,6 +18,25 @@
             "date_disbursement": "05/09/2018 10:18",
             "Loan amount": "300000",
             "amount_repaid": 0
+        },
+        {
+            "id": 2,
+            "firstname": "Aliyu",
+            "lastname": "ISA",
+            "middlename": "",
+            "gender": "male",
+            "dob": "05/05/1966",
+            "phone": "8153453634",
+            "bvn": "22254356345",
+            "stateid": 34,
+            "state": "Sokoto",
+            "lgaid": 716,
+            "lga": "Sokoto South",
+            "gps": "13.0308289,5.2591434",
+            "date_submission": "07/09/2018 22:12",
+            "date_disbursement": "05/09/2018 10:18",
+            "Loan amount": "300000",
+            "amount_repaid": 0
         }
     ],
     "anchors": [],
