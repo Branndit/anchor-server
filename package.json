@@ -1,0 +1,24 @@
+{
+  "name": "abp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Branndit:branndit2018@github.com/Branndit/anchor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Branndit/anchor/issues"
+  },
+  "homepage": "https://github.com/Branndit/anchor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-server": "^0.15.1"
+  }
+}
