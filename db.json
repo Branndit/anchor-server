@@ -272,7 +272,8 @@
             "bvnEnrolled": "234344",
             "verified": "55500",
             "disbursed": "220",
-            "loansPaid": "5.3",
+            "amountDisbursed": "300",
+            "loansRepaid": "5.3",
             "anchors": "30000",
             "Iproviders": "50000"
         }
