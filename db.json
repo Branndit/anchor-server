@@ -26,8 +26,11 @@
             "image": "",
             "amountDisbursed": "40000",
             "numberOfCrops": "7",
+            "maritalStatus": "single",
             "crop_list": [],
-            "farm_images": []
+            "farm_images": [],
+            "verified": false,
+            "dateOfBirth": "1989-09-01"
         },
         {
             "id": 2,
@@ -311,10 +314,64 @@
         },
         {
             "id": "anchor",
-            "numberOfAnchors": 4000,
-            "totalTraded": "834455",
+            "totalNumber": 4000,
+            "totalCropTraded": "834455",
             "averageTurnout": 21.4,
-            "totalProcessed": 59.2
+            "totalTurnout": 59.2,
+            "activeStates": [
+                {
+                    "id": 1,
+                    "state": "Kano",
+                    "farmers": "14300"
+                },
+                {
+                    "id": 2,
+                    "state": "Kebbi",
+                    "farmers": "10500"
+                },
+                {
+                    "id": 3,
+                    "state": "Lagos",
+                    "farmers": "6300"
+                },
+                {
+                    "id": 4,
+                    "state": "Ondo",
+                    "farmers": "4100"
+                },
+                {
+                    "id": 5,
+                    "state": "Oyo",
+                    "farmers": "2900"
+                }
+            ],
+            "mostProcessed": [
+                {
+                    "id": 1,
+                    "state": "Kano",
+                    "crop": "1300"
+                },
+                {
+                    "id": 2,
+                    "state": "Kebbi",
+                    "crop": "1500"
+                },
+                {
+                    "id": 3,
+                    "state": "Lagos",
+                    "crop": "16300"
+                },
+                {
+                    "id": 4,
+                    "state": "Ondo",
+                    "crop": "9100"
+                },
+                {
+                    "id": 5,
+                    "state": "Oyo",
+                    "crop": "5900"
+                }
+            ]
         },
         {
             "id": "Iprovider",
@@ -334,6 +391,15 @@
             "loansRepaid": "5.3",
             "anchors": "30000",
             "Iproviders": "50000"
+        }
+    ],
+    "states": [
+        {
+            "id": "Lagos",
+            "overview": {},
+            "farmer": {},
+            "anchor": {},
+            "Iprovider": {}
         }
     ]
 }
