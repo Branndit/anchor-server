@@ -24,6 +24,8 @@
             "address": "Kilimanjaro street",
             "enumerator": "State Government",
             "image": "",
+            "amountDisbursed": "40000",
+            "numberOfCrops": "7",
             "crop_list": [],
             "farm_images": []
         },
