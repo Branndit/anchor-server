@@ -255,7 +255,10 @@
             "phone": "8153453634",
             "bvn": "22254356345",
             "state": "Sokoto",
-            "lga": "Sokoto South"
+            "lga": "Sokoto South",
+            "businessName": "Dapo Nigeria Ltd",
+            "amountProcessed": "3000",
+            "contactPerson": "Dapo Chiroma"
         }
     ],
     "Iproviders": [],
