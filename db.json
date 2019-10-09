@@ -256,6 +256,8 @@
             "bvn": "22254356345",
             "state": "Sokoto",
             "lga": "Sokoto South",
+            "verified": true,
+            "martialStaus": "single",
             "businessName": "Dapo Nigeria Ltd",
             "amountProcessed": "4.9",
             "commoditiesProcessed": "2.3",
