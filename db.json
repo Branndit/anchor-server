@@ -459,7 +459,7 @@
             "Iprovider": {
                 "enumerated": "7,192",
                 "totalInputSupported": "231",
-                "totalInout Delivered": "4.2",
+                "totalInputDelivered": "4.2",
                 "averageAnnualInput": "12.2"
             }
         }
