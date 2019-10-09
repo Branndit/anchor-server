@@ -430,5 +430,87 @@
             "anchor": {},
             "Iprovider": {}
         }
+    ],
+    "crops": [
+        {
+            "label": "Cassava",
+            "overview": {},
+            "farmer": {
+                "enumerated": "3000",
+                "approved": "5000",
+                "totalHectares": "10",
+                "totalCropsSupported": 10,
+                "loansReceived": 13.2,
+                "loansPaid": 13.2,
+                "inputProcessed": "200",
+                "totalProcessed": "5000"
+            },
+            "anchor": {},
+            "Iprovider": {}
+        },
+        {
+            "label": "Castor Seed"
+        },
+        {
+            "label": "Cattles"
+        },
+        {
+            "label": "Cotton"
+        },
+        {
+            "label": "Cocoa"
+        },
+        {
+            "label": "Fish"
+        },
+        {
+            "label": "Ginger"
+        },
+        {
+            "label": "Groundnut"
+        },
+        {
+            "label": "Maize"
+        },
+        {
+            "label": "Oil Palm"
+        },
+        {
+            "label": "Poultry"
+        },
+        {
+            "label": "Rice"
+        },
+        {
+            "label": "Sesame"
+        },
+        {
+            "label": "Sorghum"
+        },
+        {
+            "label": "Soya Beans"
+        },
+        {
+            "label": "Tomato"
+        },
+        {
+            "label": "Wheat"
+        },
+        {
+            "id": "Lagos",
+            "overview": {},
+            "farmer": {
+                "enumerated": "2000",
+                "approved": "4000",
+                "totalHectares": "120",
+                "totalCropsSupported": 10,
+                "loansReceived": 13.2,
+                "loansPaid": 13.2,
+                "inputProcessed": "3000",
+                "totalProcessed": "70000"
+            },
+            "anchor": {},
+            "Iprovider": {}
+        }
     ]
 }
