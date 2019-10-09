@@ -261,7 +261,8 @@
             "businessName": "Dapo Nigeria Ltd",
             "amountProcessed": "4.9",
             "commoditiesProcessed": "2.3",
-            "contactPerson": "Dapo Chiroma"
+            "contactPerson": "Dapo Chiroma",
+            "image": ""
         }
     ],
     "Iproviders": [],
@@ -416,7 +417,16 @@
         {
             "id": "Lagos",
             "overview": {},
-            "farmer": {},
+            "farmer": {
+                "enumerated": "2000",
+                "approved": "4000",
+                "totalHectares": "120",
+                "totalCropsSupported": 10,
+                "loansReceived": 13.2,
+                "loansPaid": 13.2,
+                "inputProcessed": "3000",
+                "totalProcessed": "70000"
+            },
             "anchor": {},
             "Iprovider": {}
         }
