@@ -427,7 +427,12 @@
                 "inputProcessed": "3000",
                 "totalProcessed": "70000"
             },
-            "anchor": {},
+            "anchor": {
+                "totalNumber": 5000,
+                "totalCropTraded": "12455",
+                "averageTurnout": 2.4,
+                "totalTurnout": 5.2
+            },
             "Iprovider": {}
         }
     ],
@@ -445,7 +450,12 @@
                 "inputProcessed": "200",
                 "totalProcessed": "5000"
             },
-            "anchor": {},
+            "anchor": {
+                "totalNumber": 3000,
+                "totalCropTraded": "2455",
+                "averageTurnout": 1.4,
+                "totalTurnout": 2.2
+            },
             "Iprovider": {}
         },
         {
