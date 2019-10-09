@@ -244,7 +244,20 @@
             "farm_images": []
         }
     ],
-    "anchors": [],
+    "anchors": [
+        {
+            "id": 1,
+            "firstname": "Aliyu",
+            "lastname": "ISA",
+            "middlename": "",
+            "gender": "male",
+            "dob": "05/05/1966",
+            "phone": "8153453634",
+            "bvn": "22254356345",
+            "state": "Sokoto",
+            "lga": "Sokoto South"
+        }
+    ],
     "Iproviders": [],
     "overview": [
         {
